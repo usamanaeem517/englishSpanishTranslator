@@ -216,7 +216,7 @@ int main() {
 			temp = searchSpanish(head, w);
 			flag = 1;
 		}
-		printf("Please Enter 1 for Spanish Word and 2 for English word\n 0 for Exit\n");
+		printf("Please Enter 1 for Spanish Word and 2 for English word\n 0 for Exit \n");
 		gets(input);
 	}
 	return 0;
