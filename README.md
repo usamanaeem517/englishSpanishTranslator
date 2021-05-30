@@ -14,7 +14,7 @@ The program must be able to load the dictionary from a plain text file, which wi
 each line of the file. </br>
 An input file called "translator.in" will be delivered, which corresponds to two columns of words, where the first column corresponds to
 the word in Spanish, and the second column corresponds to the word in English. The program must be able to add each of the words
-to the ordered binary tree. An example of this file is shown below. </br>
+to the ordered binary tree. </br>
 
 ## To Compile:
 <pre><code>gcc main.c -o main </code></pre>
