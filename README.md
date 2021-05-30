@@ -15,3 +15,9 @@ each line of the file. </br>
 An input file called "translator.in" will be delivered, which corresponds to two columns of words, where the first column corresponds to
 the word in Spanish, and the second column corresponds to the word in English. The program must be able to add each of the words
 to the ordered binary tree. An example of this file is shown below. </br>
+
+## To Compile:
+<pre><code>gcc main.c -o main </code></pre>
+
+## To execute:
+<pre><code>./main</code></pre>
